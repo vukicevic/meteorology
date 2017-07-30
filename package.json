@@ -1,0 +1,24 @@
+{
+  "name": "meteorology",
+  "version": "0.0.1",
+  "description": "Meteorological formulas and converters",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vukicevic/meteorology.git"
+  },
+  "keywords": [
+    "weather",
+    "formulas",
+    "meteorology"
+  ],
+  "author": "Nenad Vukicevic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vukicevic/meteorology/issues"
+  },
+  "homepage": "https://github.com/vukicevic/meteorology#readme"
+}
